@@ -42,17 +42,17 @@
 body {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   min-height: 100vh; /* Imposta l'altezza minima al 100% della viewport height */
-  margin: 0; /* Rimuovi il margine predefinito del body */
+  margin: 10; /* Rimuovi il margine predefinito del body */
 
-    background-color: #c77844; /* Cambia il colore dello sfondo */
-    color: #96f8eb; /* Cambia il colore del testo */
+    background-color: #909090; /* Cambia il colore dello sfondo */
+    color: #ffffff; /* Cambia il colore del testo */
 }
 
 h1 {
-    color: #007acc; /* Cambia il colore dell'intestazione h1 */
+    color: #000000; /* Cambia il colore dell'intestazione h1 */
 }
 
 /* Altre regole CSS personalizzate */
