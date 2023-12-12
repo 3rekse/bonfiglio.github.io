@@ -5,8 +5,8 @@ Omarillo Logo Extension Overview
 ### I blocchi di Omarillo
 ![Omarillo Logo Blocks](https://raw.githubusercontent.com/3rekse/omarillo/master/assets/OmarilloBlocks.png)
 
-### Per i nostri studenti la mascotte c'è l'Omarillo un neurone di intelligenza artificiale di Turtle la tartaruga di Mr. Coxall
-Gli omarilli sono degli organoidi cerebrali che i nostri studenti addestrano  e l'**Omarillo Logo** è il liguaggio che capiscono:
+### Per i nostri studenti c'è la mascotte  **Omarillo** un neurone di intelligenza artificiale di Turtle la tartaruga di Mr. Coxall
+Gli omarilli sono degli organoidi cerebrali che i nostri studenti addestrano  e l'**Omarillo Logo** è il solo liguaggio che conoscono:
 - Lesson #1 → "Benvenuti all'I.T.I. Omar!" [YouTube Mr.Coxall e la sua Turtle](https://youtu.be/HW2zt7gOTXs) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson1)
 - Lesson #1 Advanced→ "Hello, World!"  [YouTube](https://youtu.be/qTC16Zdyr0s) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson1-advanced)
 - Lesson #2 → Omarillo si muove  [YouTube](https://youtu.be/6Iy0KVbIkzs) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson2)
