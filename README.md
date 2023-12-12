@@ -5,14 +5,14 @@ Omarillo Logo Extension Overview
 ### I blocchi di Omarillo
 ![Omarillo Logo Blocks](https://raw.githubusercontent.com/3rekse/omarillo/master/assets/OmarilloBlocks.png)
 
-### Per i nostri studenti la mascotte Omarillo un neurone di intelligenza artificiale
-Gli omarilli sono degli organoidi cerebrali che i nostri studenti addestrano  **Omarillo Logo** sono tutti i comandi che capiscono:
-- Lesson #1 → "Benvenuti all'I.T.I. Omar!" [YouTube](https://youtu.be/HW2zt7gOTXs) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson1)
-- Lesson #2 → Omarillo si muove  [YouTube](https://youtu.be/6Iy0KVbIkzs) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson2) 
-- Lesson #3 → Omarillo si gira [YouTube](https://youtu.be/lnFRWyLXDUI) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson3)
-- Lesson #4 → Omarillo con pastelli [YouTube](https://youtu.be/tOWJ47YGXX0) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson4)
-- Lesson #5 → Omarillo disegna [YouTube](https://youtu.be/sIrBfOgNz9k) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson5)
-- Lesson #6 → Looping         [YouTube](https://youtu.be/xs2HbVJ8KQI) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson6)
+### Per i nostri studenti la mascotte c'è l'Omarillo un neurone di intelligenza artificiale di Turtle la tartaruga di Mr. Coxall
+Gli omarilli sono degli organoidi cerebrali che i nostri studenti addestrano  e l'**Omarillo Logo** è il liguaggio che capiscono:
+- Lesson #1 → "Benvenuti all'I.T.I. Omar!" [YouTube Mr.Coxall e la sua Turtle](https://youtu.be/HW2zt7gOTXs) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson1)
+- Lesson #2 → Omarillo si muove  [YouTube](https://youtu.be/6Iy0KVbIkzs) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson2) 
+- Lesson #3 → Omarillo si gira [YouTube](https://youtu.be/lnFRWyLXDUI) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson3)
+- Lesson #4 → Omarillo con pastelli [YouTube](https://youtu.be/tOWJ47YGXX0) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson4)
+- Lesson #5 → Omarillo disegna [YouTube](https://youtu.be/sIrBfOgNz9k) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson5)
+- Lesson #6 → Looping         [YouTube](https://youtu.be/xs2HbVJ8KQI) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson6)
 
 ### Advanced Turtle Logo Lessons for Students
 You can get a set of advanced lessons, using variables and sprites for students to **Turtle Logo** here:
