@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="style.css">
 ![Omarillo Logo](https://raw.githubusercontent.com/3rekse/omarillo/master/icon.png)
 ## Omarillo  Forked from Mr-Coxall/turtle-logo
 Omarillo Logo Extension Overview
