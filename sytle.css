@@ -1,0 +1,12 @@
+/* style.css */
+
+body {
+    background-color: #c77844; /* Cambia il colore dello sfondo */
+    color: #96f8eb; /* Cambia il colore del testo */
+}
+
+h1 {
+    color: #007acc; /* Cambia il colore dell'intestazione h1 */
+}
+
+/* Altre regole CSS personalizzate */
