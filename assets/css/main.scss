@@ -45,13 +45,13 @@ body {
   align-items: left;
   justify-content: left;
   min-height: 100vh; /* Imposta l'altezza minima al 100% della viewport height */
-  margin: 10; /* Rimuovi il margine predefinito del body */
+  margin: 50px; /* Rimuovi il margine predefinito del body */
 
-    background-color: #909090; /* Cambia il colore dello sfondo */
+    background-color: #707070; /* Cambia il colore dello sfondo */
     color: #ffffff; /* Cambia il colore del testo */
 }
 
-h1 {
+h2,h3 {
     color: #000000; /* Cambia il colore dell'intestazione h1 */
 }
 
