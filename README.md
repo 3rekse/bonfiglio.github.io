@@ -1,32 +1,65 @@
-Benvenuto
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+![Omarillo Logo](https://raw.githubusercontent.com/3rekse/omarillo/master/icon.png)
+## Omarillo  Forked from Mr-Coxall/turtle-logo
+Omarillo Logo Extension Overview
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+### I blocchi di Omarillo
+![Omarillo Logo Blocks](https://raw.githubusercontent.com/3rekse/omarillo/master/assets/OmarilloBlocks.png)
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+### Per i nostri studenti la mascotte Omarillo un neurone di intelligenza artificiale
+Gli omarilli sono degli organoidi cerebrali che i nostri studenti addestrano  **Omarillo Logo** sono tutti i comandi che capiscono:
+- Lesson #1 → "Benvenuti all'I.T.I. Omar!" [YouTube](https://youtu.be/HW2zt7gOTXs) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson1)
+- Lesson #2 → Omarillo si muove  [YouTube](https://youtu.be/6Iy0KVbIkzs) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson2) 
+- Lesson #3 → Omarillo si gira [YouTube](https://youtu.be/lnFRWyLXDUI) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson3)
+- Lesson #4 → Omarillo con pastelli [YouTube](https://youtu.be/tOWJ47YGXX0) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson4)
+- Lesson #5 → Omarillo disegna [YouTube](https://youtu.be/sIrBfOgNz9k) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson5)
+- Lesson #6 → Looping         [YouTube](https://youtu.be/xs2HbVJ8KQI) - [Arcade tutorial & restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson6)
 
-# Instructions
+### Advanced Turtle Logo Lessons for Students
+You can get a set of advanced lessons, using variables and sprites for students to **Turtle Logo** here:
+- Lesson #1 → "Hello, World!"  [YouTube](https://youtu.be/qTC16Zdyr0s) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson1-advanced)
+- Lesson #2 → Moving Turtle    [YouTube](https://youtu.be/mutWUDvQsAo) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson2-advanced) 
+- Lesson #3 → Turning Turtle   [YouTube](https://youtu.be/6zzq0y3baXo) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson3-advanced) 
+- Lesson #4 → Pen color        [YouTube](https://youtu.be/XbgNxCnBZ1c) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson4-advanced)
+- Lesson #5 → Pen Up           [YouTube](https://youtu.be/ysTdV30WCdg) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson5-advanced) 
+- Lesson #6 → Looping          [YouTube](https://youtu.be/L8Mw3eyVer0) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/Mr-Coxall/makecode-arcade-turtle-logo-lesson6-advanced) 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+### MakeCode Arcade Extension
+This MakeCode Arcade Extension adds "Turtle Logo" programming language to make code.
+This code uses a previous version ([https://github.com/microsoft/pxt-screen-turtle](https://github.com/microsoft/pxt-screen-turtle)) but I needed some specific changes as requested by the elementary teacher I was working with:
+- needed to minimize the number of blocks
+- needed to change some block names, to help student's
+- needed to use cartesian coordinates, (0,0) being in the center of the screen 
 
-See more info at https://academicpages.github.io/
+See an example in actions at:
+> Open this page at [https://mr-coxall.github.io/turtle-logo/](https://mr-coxall.github.io/turtle-logo/)
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Use as Extension
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+This repository can be added as an **extension** in MakeCode.
 
-# Changelog -- bugfixes and enhancements
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/mr-coxall/turtle-logo** and import
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+This repository can be added as an **extension** in MakeCode.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+## Edit this project ![Build status badge](https://github.com/mr-coxall/turtle-logo/workflows/MakeCode/badge.svg)
+
+To edit this repository in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/mr-coxall/turtle-logo** and click import
+
+## Blocks preview
+
+This image shows the blocks code from the last commit in master.
+This image may take a few minutes to refresh.
+
+![A rendered view of the blocks](https://github.com/mr-coxall/turtle-logo/raw/master/.github/makecode/blocks_new.png)
+
+#### Metadata (used for search, rendering)
+
+* for PXT/arcade
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
