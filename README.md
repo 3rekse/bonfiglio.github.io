@@ -16,9 +16,9 @@ Gli omarilli sono degli organoidi cerebrali che i nostri studenti addestrano  e 
 - Lesson #4 → Omarillo con pastelli [YouTube](https://youtu.be/tOWJ47YGXX0) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson4)
 - Lesson #4 Advanced→ Pen color        [YouTube](https://youtu.be/XbgNxCnBZ1c) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson4-advanced)
 - Lesson #5 → Omarillo disegna [YouTube](https://youtu.be/sIrBfOgNz9k) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson5)
-- Lesson #6 → Looping         [YouTube](https://youtu.be/xs2HbVJ8KQI) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson6)
 - Lesson #5 Advanced→ Pen Up           [YouTube](https://youtu.be/ysTdV30WCdg) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson5-advanced) 
-Lesson #6 Advanced→ Looping          [YouTube](https://youtu.be/L8Mw3eyVer0) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson6-advanced) 
+- Lesson #6 → Looping         [YouTube](https://youtu.be/xs2HbVJ8KQI) - [Omarillo Tutorial](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson6)
+- Lesson #6 Advanced→ Looping          [YouTube](https://youtu.be/L8Mw3eyVer0) - [Restricted IDE](http://arcade.makecode.com/?lockedEditor=1#tutorial:https://github.com/3rekse/makecode-omarillo-logo-lesson6-advanced) 
 
 
 ### MakeCode Arcade Extension
