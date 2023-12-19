@@ -2,6 +2,7 @@
 ## Omarillo  Forked from Mr-Coxall/turtle-logo
 Omarillo Logo Extension Overview
 
+![Guida Blocks](https://makecode.com/defining-blocks)
 ### I blocchi di Omarillo
 ![Omarillo Logo Blocks](https://raw.githubusercontent.com/3rekse/omarillo/master/assets/OmarilloBlocks.png)
 
