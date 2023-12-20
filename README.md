@@ -2,7 +2,8 @@
 ## Omarillo  Forked from Mr-Coxall/turtle-logo
 Omarillo Logo Extension Overview
 
-![Guida Blocks](https://makecode.com/defining-blocks)
+![Guida Blocks](https://makecode.com/defining-blocks)  
+![adafruit](https://makecode.com/_3V6T1hWWRc12) (https://cdn-shop.adafruit.com/adafruit-logos/LG-1575292018.png)
 ### I blocchi di Omarillo
 ![Omarillo Logo Blocks](https://raw.githubusercontent.com/3rekse/omarillo/master/assets/OmarilloBlocks.png)
 
