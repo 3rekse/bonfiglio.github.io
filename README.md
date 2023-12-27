@@ -1,15 +1,5 @@
 import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 ![Omarillo Logo](https://raw.githubusercontent.com/3rekse/omarillo/master/icon.png)
-```c
-#include <stdio.h>
-
-int main (void){
-  printf ("Hello, world \n");
-
-	return 0;
-}
-```
-@LIA.eval(`["main.c"]`, `gcc -Wall main.c -o a.out`, `./a.out)
 
 ## Omarillo  Forked from Mr-Coxall/turtle-logo
 Omarillo Logo Extension Overview
